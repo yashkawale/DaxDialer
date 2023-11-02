@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Varun Sharma",
+      "attempts": 1,
+      "lead": "LEAD",
+      "abatz": "Abatz",
+      "imagePath": "varun.png"
+    },
+    {
+      "id": 2,
+      "name": "Yash Chheniya",
+      "attempts": 2,
+      "lead": "Interested",
+      "abatz": "Abatz",
+      "imagePath": "yash.png"
+    },
+    {
+      "id": 3,
+      "name": "Viplao Itankar",
+      "attempts": 6,
+      "lead": "Interested - Hot",
+      "abatz": "Abatz",
+      "imagePath": "yash.png"
+    }
+  ]
+  
